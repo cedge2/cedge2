@@ -6,7 +6,7 @@ My name is Camber, I am a Junior Sotware Developer based in Houston, TX
   
 - 📫 How to reach me: <br>
   Email: camberlyn@outlook.com <br>
-  Linkedin: www.linkedin.com/in/camber-edge-2b8601256
+  Linkedin: www.linkedin.com/in/camber-edge
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cooking, music, and learning new things!
 <br>
