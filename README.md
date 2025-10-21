@@ -3,6 +3,11 @@
 My name is Camber, I am a Junior Sotware Developer based in Houston, TX
 
 - 🔭 I’m currently working on growing my career and development by pursuing a Masters of Computer Science through University of Colorado Boulder
+  current classes:
+  Codepath Technical Interview Prep
+  Introduction to Computer Vision, Deep Learning for Computer Vision, Modern AI Models for Vision and Multimodal Understanding
+  Basic Robotic Behaviors and Odometry, Robotic Mapping and Trajectory GenerationRobotic Path Planning and Task Execution
+  
   
 - 📫 How to reach me: <br>
   Email: camberlyn@outlook.com <br>
